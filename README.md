@@ -1,11 +1,7 @@
-# Practicing psycopg2 to use Python, SQL and pgAdmin 4 all together. 
+# Skillio groupwork for using SQL
 
-User is able to run  functions using command line trough main.py (in src/data). 
+- creating tables with relations
+- populating the tables
+- running queries
 
-If you want to use these you need to create a new .ini file with your  information 
-[postgresql]
-host=
-database=
-port=
-user=
-password
+  check the data folder
