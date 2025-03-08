@@ -4,4 +4,4 @@
 - populating the tables
 - running queries
 
-  check the data folder
+Push from local to cloud and update description pending
